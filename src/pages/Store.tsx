@@ -2,7 +2,6 @@ import { Col, Row } from "react-bootstrap";
 import { StoreItem } from "../Components/StoreItem";
 import storeItems from "../data/Items.json";
 
-console.log(storeItems);
 export const Store = () => {
   return (
     <>
